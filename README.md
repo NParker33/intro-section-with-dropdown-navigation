@@ -8,6 +8,7 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
   - [The challenge](#the-challenge)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Links](#links)
 - [Author](#author)
 
 ## Overview
@@ -29,7 +30,11 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 
+## Links
+
+- Live Site - [Frontend Mentor | Intro Section with Navigation Dropdown](https://nparker33.github.io/intro-section-with-dropdown-navigation/)
+
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/NParker33)
+- Frontend Mentor - [@NParker33](https://www.frontendmentor.io/profile/NParker33)
 - Twitter - [@Parker33Ni](https://www.twitter.com/Parker33Ni)
