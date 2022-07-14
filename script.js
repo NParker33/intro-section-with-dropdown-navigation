@@ -1,6 +1,6 @@
 "use strict";
 
-const containerMenu = document.querySelector(".menu-container");
+const containerMenu = document.querySelector(".nav-container");
 const menu = document.querySelector(".nav-menu");
 
 const btnHamburgerMenu = document.querySelector(".menu-btn");
